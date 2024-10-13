@@ -31,7 +31,7 @@ void print(vector<T>& v)
 
 int main()
 {
-    vector<int> v{ 4,3,2,1,6 };
+    	vector<int> v{ 4,3,2,1,6 };
 	
 	selectionSort(v);
 
