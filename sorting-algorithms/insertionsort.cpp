@@ -22,7 +22,7 @@ void insertionSort(vector<T>& v)
 
 int main()
 {
-  vector<int> vector{ 4,3,2,1,6 };
+  	vector<int> vector{ 4,3,2,1,6 };
 	
 	insertionSort(vector);
 
