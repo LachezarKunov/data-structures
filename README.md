@@ -3,6 +3,7 @@
 Repository for my data structures course at FMI, Sofia University. Contains implementations of various data structures and algorithms covered in the course.
 
 ## Topics Covered
+- Sorting Algorithms
 - Arrays
 - Linked Lists
 - Stacks
