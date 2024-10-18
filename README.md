@@ -1,6 +1,6 @@
 # Data Structures Course Repository
 
-Repository for my data structures course at FMI, Sofia University. Contains implementations of various data structures and algorithms covered in the course.
+Repository for my data structures course at FMI, Sofia University
 
 ## Topics Covered
 - Sorting Algorithms
